@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/Layout/stylealbum.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>Music App</title>
+</head>
+
+<body>
+    <header>
+        <div class="menu_side">
+            <h1>Playlist</h1>
+            <div class="playlist">
+                <h4 class="active"><span></span><i class="bi bi-music-note-beamed"></i>Playlist</h4>
+                <h4 id ="lastlistening"><span></span><i class="bi bi-music-note-beamed"></i>Last Listening</h4>
+                <h4 id="recommended"><span></span><i class="bi bi-music-note-beamed"></i>Recommended</h4>
+            </div>
+            @RenderSection("Play_List", required: false)
+        </div>
+        <div class="song_side">
+            <nav>
+                <ul>
+                    <li>
+                        <a asp-controller="Home" asp-action="Index">DISCOVER </a>
+                    </li>
+                    <li>
+                        <a asp-controller="Dsphat" asp-action="Index">MY LIBRARY</a>
+                    </li>
+                    <li>
+                        <a asp-controller="Album" asp-action="Index"><span></span>ALBUM</a>
+                    </li>
+
+                </ul>
+                <div class="search">
+                    <i class="bi bi-search"></i>
+                    <input type="text" placeholder="Search Music...">
+                </div>
+                <div class="user">
+                    <img src="~/Layout/img/1.jpg" alt="user" title="Nghia">
+                </div>
+            </nav>
+
+            
+            @RenderBody()
+            @RenderSection("Popular_Song", required: false)
+
+            @RenderSection("Popular_Artist", required: false)
+
+
+            @RenderSection("Recomended_Song", required: false)
+
+
+
+        </div>
+
+        @RenderSection("Master_Play", required: false)
+
+        <div class="master_play">
+            <div class="wave">
+                <div class="wave1"></div>
+                <div class="wave1"></div>
+
+                <div class="wave1"></div>
+            </div>
+            <img src="~/Layout/img/1.jpg" alt="Alan" id="poster_master_play" data-song-id="">
+            <h5 id="song_and_artist" data-song-id="">
+                On My Way <br>
+                <div class="subtitle">Alan Walker</div>
+            </h5>
+            <div class="icon">
+                <i class="bi bi-skip-start-fill" id="back"></i>
+                <i class="bi bi-play-fill" id="masterPlay"></i>
+                <i class="bi bi-skip-end-fill" id="next"></i>
+            </div>
+            <span id="currentStart">0:00</span>
+            <div class="bar">
+                <input type="range" id="seek" min="0" value="0" max="100">
+                <div class="bar2" id="bar2"></div>
+                <div class="dot"></div>
+            </div>
+            <span id="currentEnd">0:00</span>
+            <div class="vol">
+                <i class="bi bi-volume-down-fill" id="vol_icon"></i>
+                <input type="range" id="vol" min="0" value="30" max="100">
+                <div class="vol_bar"></div>
+                <div class="dot" id="vol_dot"></div>
+            </div>
+            <div class="emotions">
+                <i class="bi bi-hand-thumbs-up-fill" id="like"></i>
+                <i class="bi bi-hand-thumbs-down-fill" id="dislike"></i>
+            </div>
+        </div>
+
+
+    </header>
+
+    <script src="~/Layout/app.js"></script>
+</body>
+
+
+
+
+</html>

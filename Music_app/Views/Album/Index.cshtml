@@ -1,0 +1,44 @@
+﻿@*
+    ViewData["Title"] = "Home Page";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+*@
+@{
+	ViewData["Title"] = "Album ";
+	Layout = "~/Views/Shared/_LayoutAlbum.cshtml";
+}
+
+@model Music_app.ViewModels.XemAlbumVM
+
+
+
+
+
+<div class="recomended_song">
+	<div class="h4">
+		<h4>Best Album</h4>
+		<div class="btn_s">
+			<i id="left_scroll" class="bi bi-arrow-left-short"></i>
+			<i id="right_scroll" class="bi bi-arrow-right-short"></i>
+		</div>
+	</div>
+	<div class="pop_song">
+
+		@foreach (var item in Model.AlbumVMs)
+		{
+			<li class="albumItem">
+				<div class="img_play">
+					<a href="@Url.Action("Details", "Album", new { id = item.Idalbum })">
+						<img src="../Source/AlbumIm/@item.LinkAnh" alt="@item.TenTG">
+					</a>
+				</div>
+				<h5>
+					@item.TenAlbum
+					<br>
+					<div class="subtitle">@item.TenTG</div>
+
+				</h5>
+			</li>
+		}
+
+	</div>
+</div>

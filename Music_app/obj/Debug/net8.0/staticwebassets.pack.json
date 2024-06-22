@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Music_app.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Music_app.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\app.js",
+      "PackagePath": "staticwebassets\\Layout\\app.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\img\\bg.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\bg.png"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\style.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\stylealbum.css",
+      "PackagePath": "staticwebassets\\Layout\\stylealbum.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\stylealdsphat.css",
+      "PackagePath": "staticwebassets\\Layout\\stylealdsphat.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d00001e024888abe8ee4d110278a67538.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d00001e024888abe8ee4d110278a67538.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d0000b27347ce408fb4926d69da6713c2.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d0000b27347ce408fb4926d69da6713c2.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d0000b273824ac9ea17bde4ea1fd09f4f.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d0000b273824ac9ea17bde4ea1fd09f4f.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d0000b273904445d70d04eb24d6bb79ac.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d0000b273904445d70d04eb24d6bb79ac.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d0000b273bd48f3fbedddb23ed66f860a.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d0000b273bd48f3fbedddb23ed66f860a.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d0000b273df9a35baaa98675256b35177.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d0000b273df9a35baaa98675256b35177.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\AlbumIm\\ab67616d0000b273fc915b69600dce2991a61f13.jpg",
+      "PackagePath": "staticwebassets\\Source\\AlbumIm\\ab67616d0000b273fc915b69600dce2991a61f13.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d00001e02c4d00cac55ae1b4598c9bc90.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d00001e02c4d00cac55ae1b4598c9bc90.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273156aeddf54ed40b1d9d30c9f.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273156aeddf54ed40b1d9d30c9f.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b2732118bf9b198b05a95ded6300.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b2732118bf9b198b05a95ded6300.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b2732461003df8139247949c8a9d.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b2732461003df8139247949c8a9d.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b2732a8efe3bfa6a605fcf863237.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b2732a8efe3bfa6a605fcf863237.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273400d915184024fd9b634da16.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273400d915184024fd9b634da16.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b2734eca4595da187b3a25eb9958.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b2734eca4595da187b3a25eb9958.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b27350dba34377a595e35f81b0e4.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b27350dba34377a595e35f81b0e4.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b27352b2a3824413eefe9e33817a.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b27352b2a3824413eefe9e33817a.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273539ffc79122ccceb066f5340.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273539ffc79122ccceb066f5340.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b2739bcee2cb961a04d2e5a29f5c.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b2739bcee2cb961a04d2e5a29f5c.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b2739f1b369ada752a358c9bc157.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b2739f1b369ada752a358c9bc157.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273b2b2747c89d2157b0b29fb6a.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273b2b2747c89d2157b0b29fb6a.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273b827c1001f7c9e62ffe61b60.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273b827c1001f7c9e62ffe61b60.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273bcbd4a38b226dbd8041ac4b2.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273bcbd4a38b226dbd8041ac4b2.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273bf7d3058bc206639f626da8b.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273bf7d3058bc206639f626da8b.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273d2aaf635815c265aa1ecdecc.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273d2aaf635815c265aa1ecdecc.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273d85a7ce435c8e184d646002a.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273d85a7ce435c8e184d646002a.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273da2b332af81dde51d61a02bb.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273da2b332af81dde51d61a02bb.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273e787cffec20aa2a396a61647.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273e787cffec20aa2a396a61647.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273ee86592f5e11642b7032d306.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273ee86592f5e11642b7032d306.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273f00ade2f88d8223521bc7f76.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273f00ade2f88d8223521bc7f76.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67616d0000b273fc915b69600dce2991a61f13.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67616d0000b273fc915b69600dce2991a61f13.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHatIm\\ab67706c0000da84f46769dd328dfaca3ee7fb23.jpg",
+      "PackagePath": "staticwebassets\\Source\\BaiHatIm\\ab67706c0000da84f46769dd328dfaca3ee7fb23.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\1.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\1.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\2.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\2.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\3.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\3.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\4.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\4.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\5.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\5.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\6.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\6.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\7.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\7.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\8.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\8.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\9.mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\9.mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Adele - Easy On Me (Official Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Adele - Easy On Me (Official Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Adele - Rolling in the Deep (Official Music Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Adele - Rolling in the Deep (Official Music Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Adele - Someone Like You (Official Music Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Adele - Someone Like You (Official Music Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Alan Walker - Alone (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Alan Walker - Alone (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Alan Walker - Faded (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Alan Walker - Faded (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Alan Walker, Sabrina Carpenter & Farruko  - On My Way (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Alan Walker, Sabrina Carpenter & Farruko  - On My Way (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Imagine Dragons - Believer (Official Music Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Imagine Dragons - Believer (Official Music Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Imagine Dragons - Demons (Official Music Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Imagine Dragons - Demons (Official Music Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Imagine Dragons - Thunder (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Imagine Dragons - Thunder (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Taylor Swift - Cruel Summer (Official Audio) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Taylor Swift - Cruel Summer (Official Audio) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Taylor Swift - Lover (Official Music Video) (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Taylor Swift - Lover (Official Music Video) (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\BaiHat\\y2meta.com - Taylor Swift - Style (128 kbps).mp3",
+      "PackagePath": "staticwebassets\\Source\\BaiHat\\y2meta.com - Taylor Swift - Style (128 kbps).mp3"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab6761610000517405dfcbe06dcf1fd031b02aa8.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab6761610000517405dfcbe06dcf1fd031b02aa8.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab67616100005174ab47d8dae2b24f5afe7f9d38.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab67616100005174ab47d8dae2b24f5afe7f9d38.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab67616100005174e790217ff9f7f2922524b93e.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab67616100005174e790217ff9f7f2922524b93e.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab6761610000e5eb68f6e5892075d7f22615bd17.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab6761610000e5eb68f6e5892075d7f22615bd17.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab6761610000e5ebbf753c009fd9c2d53351dd3c.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab6761610000e5ebbf753c009fd9c2d53351dd3c.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab6761610000e5ebe672b5f553298dcdccb0e676.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab6761610000e5ebe672b5f553298dcdccb0e676.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Source\\TacGiaIm\\ab67706c0000da84e0e8b3fdc5bcc3b1f21b3b19.jpg",
+      "PackagePath": "staticwebassets\\Source\\TacGiaIm\\ab67706c0000da84e0e8b3fdc5bcc3b1f21b3b19.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\img\\bg.png",
+      "PackagePath": "staticwebassets\\img\\bg.png"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\đồ án 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Music_app.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Music_app.props",
+      "PackagePath": "build\\Music_app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Music_app.props",
+      "PackagePath": "buildMultiTargeting\\Music_app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Music_app.props",
+      "PackagePath": "buildTransitive\\Music_app.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

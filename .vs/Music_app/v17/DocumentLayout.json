@@ -1,0 +1,804 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\mymusiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\mymusiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\wwwroot\\layout\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\wwwroot\\layout\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\wwwroot\\layout\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\wwwroot\\layout\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\emotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\emotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\dsphatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\dsphatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\camxuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\camxuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\dsgoiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\dsgoiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\emotionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\emotionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\shared\\_layoutalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\shared\\_layoutalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\shared\\_layoutdsphat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\shared\\_layoutdsphat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\album\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\album\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\wwwroot\\layout\\stylealbum.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\wwwroot\\layout\\stylealbum.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\tacgia\\danhsachbaihat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\tacgia\\danhsachbaihat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\tacgiavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\tacgiavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\xemhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\xemhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\savehistoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\savehistoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\baihat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\baihat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\tacgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\tacgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\dsphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\dsphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\ctdsphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\ctdsphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\dsgoiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\dsgoiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\xemhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\xemhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\listeninghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\listeninghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\xemalbumvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\xemalbumvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\dsgoiy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\dsgoiy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\dangnhap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\dangnhap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\albumvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\albumvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\helpers\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\helpers\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\taikhoanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\taikhoanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\dsgoiyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\dsgoiyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\wwwroot\\layout\\stylealdsphat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\wwwroot\\layout\\stylealdsphat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\views\\dsphat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\views\\dsphat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\dsphatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\dsphatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\baihatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\baihatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\viewmodels\\albumdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\viewmodels\\albumdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\code\\music_app\\music_app\\music_app\\models\\ctalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E705F7FD-04DE-4B08-A06E-A05EB7B3F7BA}|Music_app\\Music_app.csproj|solutionrelative:music_app\\models\\ctalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmotionController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\EmotionController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\EmotionController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\EmotionController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\EmotionController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:49:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CamXuc.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\CamXuc.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\CamXuc.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\CamXuc.cs",
+              "RelativeToolTip": "Music_app\\Models\\CamXuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:55:00.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LichSu.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\LichSu.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\LichSu.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\LichSu.cs",
+              "RelativeToolTip": "Music_app\\Models\\LichSu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:38:02.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\HistoryController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\HistoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:43:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:48:22.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DsgoiYController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DsgoiYController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\DsgoiYController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DsgoiYController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\DsgoiYController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:22:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\XemHistory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\XemHistory\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\XemHistory\\Index.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\XemHistory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T02:36:33.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DsphatController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DsphatController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\DsphatController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DsphatController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\DsphatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:42:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\style.css",
+              "RelativeDocumentMoniker": "Music_app\\wwwroot\\Layout\\style.css",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\style.css",
+              "RelativeToolTip": "Music_app\\wwwroot\\Layout\\style.css",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAAAHoBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T15:53:36.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\app.js",
+              "RelativeDocumentMoniker": "Music_app\\wwwroot\\Layout\\app.js",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\app.js",
+              "RelativeToolTip": "Music_app\\wwwroot\\Layout\\app.js",
+              "ViewState": "AQIAABQBAAAAAAAAAAAswCEBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T15:29:03.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyMusicContext.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\MyMusicContext.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\MyMusicContext.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\MyMusicContext.cs",
+              "RelativeToolTip": "Music_app\\Models\\MyMusicContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAD4vyYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:47:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKyController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DangKyController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\DangKyController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DangKyController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\DangKyController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:21:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:27:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutAlbum.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Shared\\_LayoutAlbum.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Shared\\_LayoutAlbum.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Shared\\_LayoutAlbum.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Shared\\_LayoutAlbum.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:09:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhapController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DangNhapController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\DangNhapController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\DangNhapController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\DangNhapController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:27:51.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Album\\Details.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Album\\Details.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Album\\Details.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Album\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwEcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:04:02.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "stylealbum.css",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\stylealbum.css",
+              "RelativeDocumentMoniker": "Music_app\\wwwroot\\Layout\\stylealbum.css",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\stylealbum.css",
+              "RelativeToolTip": "Music_app\\wwwroot\\Layout\\stylealbum.css",
+              "ViewState": "AQIAABABAAAAAAAAAAAawCIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T15:48:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmotionRequest.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\EmotionRequest.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\EmotionRequest.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\EmotionRequest.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\EmotionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:53:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:51:40.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutDsphat.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Shared\\_LayoutDsphat.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Shared\\_LayoutDsphat.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Shared\\_LayoutDsphat.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Shared\\_LayoutDsphat.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:54:39.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TacGiaController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\TacGiaController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\TacGiaController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\TacGiaController.cs",
+              "RelativeToolTip": "Music_app\\Models\\TacGiaController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:56:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TacGiaVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\TacGiaVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\TacGiaVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\TacGiaVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\TacGiaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:05:01.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DanhSachBaiHat.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\TacGia\\DanhSachBaiHat.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\TacGia\\DanhSachBaiHat.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\TacGia\\DanhSachBaiHat.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\TacGia\\DanhSachBaiHat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T15:23:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Album\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Album\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Album\\Index.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Album\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:08:50.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaiHat.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\BaiHat.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\BaiHat.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\BaiHat.cs",
+              "RelativeToolTip": "Music_app\\Models\\BaiHat.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:44:22.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaveHistoryVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\SaveHistoryVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\SaveHistoryVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\SaveHistoryVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\SaveHistoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:17:24.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Dsphat.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\Dsphat.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\Dsphat.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\Dsphat.cs",
+              "RelativeToolTip": "Music_app\\Models\\Dsphat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:39:06.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ctdsphat.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\Ctdsphat.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\Ctdsphat.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\Ctdsphat.cs",
+              "RelativeToolTip": "Music_app\\Models\\Ctdsphat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:38:49.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TacGium.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\TacGium.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\TacGium.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\TacGium.cs",
+              "RelativeToolTip": "Music_app\\Models\\TacGium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:54:41.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DsgoiY.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\DsgoiY.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\DsgoiY.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\DsgoiY.cs",
+              "RelativeToolTip": "Music_app\\Models\\DsgoiY.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:52:05.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\TheLoai.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\TheLoai.cs",
+              "RelativeToolTip": "Music_app\\Models\\TheLoai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:00:07.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "XemAlbumVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\XemAlbumVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\XemAlbumVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\XemAlbumVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\XemAlbumVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:25:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "XemHistoryController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\XemHistoryController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\XemHistoryController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\XemHistoryController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\XemHistoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:25:03.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\DsgoiY\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\DsgoiY\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\DsgoiY\\Index.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\DsgoiY\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:25:15.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\DangNhap\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\DangNhap\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\DangNhap\\Index.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\DangNhap\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:27:39.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ListeningHistoryViewModel.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\ListeningHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\ListeningHistoryViewModel.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\ListeningHistoryViewModel.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\ListeningHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:26:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AlbumVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\AlbumVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\AlbumVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\AlbumVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\AlbumVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:34:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DsgoiYVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\DsgoiYVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\DsgoiYVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\DsgoiYVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\DsgoiYVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:22:08.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Program.cs",
+              "RelativeDocumentMoniker": "Music_app\\Program.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Program.cs",
+              "RelativeToolTip": "Music_app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:25:58.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TaiKhoanVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\TaiKhoanVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\TaiKhoanVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\TaiKhoanVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\TaiKhoanVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:47:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Helpers\\Hash.cs",
+              "RelativeDocumentMoniker": "Music_app\\Helpers\\Hash.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Helpers\\Hash.cs",
+              "RelativeToolTip": "Music_app\\Helpers\\Hash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:51:06.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Dsphat\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_app\\Views\\Dsphat\\Index.cshtml",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Views\\Dsphat\\Index.cshtml",
+              "RelativeToolTip": "Music_app\\Views\\Dsphat\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T00:43:54.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DsphatVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\DsphatVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\DsphatVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\DsphatVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\DsphatVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:41:25.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "stylealdsphat.css",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\stylealdsphat.css",
+              "RelativeDocumentMoniker": "Music_app\\wwwroot\\Layout\\stylealdsphat.css",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\wwwroot\\Layout\\stylealdsphat.css",
+              "RelativeToolTip": "Music_app\\wwwroot\\Layout\\stylealdsphat.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T15:03:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaiHatVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\BaiHatVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\BaiHatVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\BaiHatVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\BaiHatVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:41:43.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Ctalbum.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\Ctalbum.cs",
+              "RelativeDocumentMoniker": "Music_app\\Models\\Ctalbum.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Models\\Ctalbum.cs",
+              "RelativeToolTip": "Music_app\\Models\\Ctalbum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:46:11.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AlbumDetailVM.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\AlbumDetailVM.cs",
+              "RelativeDocumentMoniker": "Music_app\\ViewModels\\AlbumDetailVM.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\ViewModels\\AlbumDetailVM.cs",
+              "RelativeToolTip": "Music_app\\ViewModels\\AlbumDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:46:01.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Music_app\\Controllers\\AlbumController.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n 1\\code\\Music_app\\Music_app\\Music_app\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "Music_app\\Controllers\\AlbumController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:33:39.804Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

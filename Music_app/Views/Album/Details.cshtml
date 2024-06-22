@@ -1,0 +1,72 @@
+﻿@*
+    ViewData["Title"] = "Home Page";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+*@
+@{
+	ViewData["Title"] = "AlbumDetail ";
+	Layout = "~/Views/Shared/_LayoutAlbum.cshtml";
+}
+
+@model Music_app.ViewModels.AlbumDetailVM
+
+
+
+
+<div class="container">
+	<div class="header-info">
+		<div class="playlist-info">
+			<img src="~/Source/AlbumIm/@Model.LinkAnh" alt="Playlist Cover">
+			<div class="details">
+				<h2>@Model.TenAlbum</h2>
+				<p>@Model.TacGia?.TenTg</p>
+				<p>Made for Lê Tiến Nghĩa </p>
+			</div>
+		</div>
+		<div class="controls">
+			<button class="play"><i class="bi bi-play-fill"></i></button>
+			<button class="other"><i class="bi bi-shuffle"></i></button>
+			<button class="other"><i class="bi bi-heart"></i></button>
+			<button class="other"><i class="bi bi-download"></i></button>
+			<button class="other"><i class="bi bi-three-dots"></i></button>
+		</div>
+	</div>
+	<main>
+		<table>
+			<thead>
+				<tr>
+					<th>#</th>
+					<th>Title</th>
+					<th>Album</th>
+					<th>Listens</th>
+					<th>Play</th>
+				</tr>
+			</thead>
+			<tbody>
+				@{int i=1;}
+				@foreach (var baiHat in Model.BaiHats)
+				{
+					
+					<tr>
+						<td>@(i)</td>
+						<td><img src="~/Source/BaiHatIm/@baiHat.LinkAnh" alt=""> @baiHat.TenBaiHat</td>
+						<td>@baiHat.TenBaiHat</td>
+						<td>@baiHat.LuotNghe</td>
+						<td>
+							<button class="play-button"
+									data-song-url="@Url.Content($"~/Source/BaiHat/{baiHat.LinkNhac}")"
+									data-song-id="@baiHat.IdbaiHat"
+									data-song-name="@baiHat.TenBaiHat"
+									data-artist-name="@baiHat.TenTG"
+									data-image-url="@Url.Content($"~/Source/BaiHatIm/{baiHat.LinkAnh}")">
+								Play
+							</button>
+						</td>
+					</tr>
+					i++;
+					
+				}
+				
+			</tbody>
+		</table>
+	</main>
+</div>

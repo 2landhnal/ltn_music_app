@@ -1,0 +1,58 @@
+﻿@*
+    ViewData["Title"] = "Home Page";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+*@
+@{
+	ViewData["Title"] = "MusicHistory ";
+	Layout = "~/Views/Shared/_LayoutAlbum.cshtml";
+}
+
+@model IEnumerable<Music_app.ViewModels.ListeningHistoryViewModel>
+
+
+
+
+<div class="container">
+	
+	<main>
+		<table>
+			<thead>
+				<tr>
+					<th>#</th>
+					<th>Title</th>
+					<th>Artist</th>
+					<th>Time</th>
+					<th>Play</th>
+				</tr>
+			</thead>
+			<tbody>
+				@{
+					int i = 1;
+				}
+				@foreach (var item in Model)
+				{
+
+					<tr>
+						<td>@(i)</td>
+						<td><img src="~/Source/BaiHatIm/@item.ImageUrl" alt=""> @item.SongName</td>
+						<td>@item.ArtistName</td>
+						<td>@item.ListeningTime</td>
+						<td>
+							<button class="play-button"
+									data-song-url="@Url.Content($"~/Source/BaiHat/{item.LinkNhac}")"
+									data-song-id="@item.IdbaiHat"
+									data-song-name="@item.SongName"
+									data-artist-name="@item.ArtistName"
+									data-image-url="@Url.Content($"~/Source/BaiHatIm/{item.ImageUrl}")">
+								Play
+							</button>
+						</td>
+					</tr>
+					i++;
+
+				}
+
+			</tbody>
+		</table>
+	</main>
+</div>
